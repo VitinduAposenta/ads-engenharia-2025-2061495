@@ -85,12 +85,14 @@ O feedback é um pilar do XP, tanto internamente entre os membros da equipe quan
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-GitHub: Focado em hospedagem de código e colaboração, com integrações externas para CI/CD e gerenciamento de projetos.
+O GitLab se posiciona como um aplicativo único para todo o ciclo de vida do DevSecOps, enquanto o GitHub se destaca com sua vasta comunidade e recursos colaborativos para desenvolvedores de todo o mundo.
+
+* GitHub: Focado em hospedagem de código e colaboração, com integrações externas para CI/CD e gerenciamento de projetos.
 
 GitLab: Oferece uma solução completa de DevOps, com ferramentas nativas para CI/CD, gerenciamento de projetos e monitoramento.
 
 Ambas são essenciais para equipes de desenvolvimen
 ### 🎮 Jira / Trello  
-Jira: Mais robusto, voltado para equipes de desenvolvimento e metodologias ágeis.
+* Via Trello O Trello é uma ferramenta de gerenciamento de projetos baseada na Web, criada para ajudar indivíduos e equipes a organizar e acompanhar tarefas. Os gerentes de projeto podem criar quadros nesse software de gerenciamento de projetos para projetos ou iniciativas.
 
-Trello: Simples e visual, perfeito para projetos menores ou equipes que precisam de uma solução mais flexível.
+* Via jira Embora tenha sido criado inicialmente para equipes de desenvolvimento ágil de software para acompanhar o ritmo acelerado do desenvolvimento, a funcionalidade expandida do Jira agora é popular para o gerenciamento de projetos em muitos setores, não apenas para desenvolvedores de software.
