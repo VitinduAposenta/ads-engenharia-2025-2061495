@@ -74,7 +74,7 @@ A comunicação é vital no Extreme Programming. Ela assegura que todos na equip
 2. **Simplicidade** 
 No XP, a simplicidade é a chave para o sucesso! Ela incentiva desenvolvedores a implementarem a solução mais simples que possa funcionar, evitando a complexidade desnecessária.
 
-3. ** Feedback**
+3. **Feedback**
 O feedback é um pilar do XP, tanto internamente entre os membros da equipe quanto externamente com os clientes.
 
 4. **Coragem**
