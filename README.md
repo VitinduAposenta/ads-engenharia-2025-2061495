@@ -91,7 +91,8 @@ O GitLab se posiciona como um aplicativo único para todo o ciclo de vida do Dev
 
 GitLab: Oferece uma solução completa de DevOps, com ferramentas nativas para CI/CD, gerenciamento de projetos e monitoramento.
 
-Ambas são essenciais para equipes de desenvolvimen
+Ambas são essenciais para equipes de desenvolvimento
+
 ### 🎮 Jira / Trello  
 * Via Trello O Trello é uma ferramenta de gerenciamento de projetos baseada na Web, criada para ajudar indivíduos e equipes a organizar e acompanhar tarefas. Os gerentes de projeto podem criar quadros nesse software de gerenciamento de projetos para projetos ou iniciativas.
 
