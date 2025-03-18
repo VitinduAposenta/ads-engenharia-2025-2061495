@@ -94,6 +94,6 @@ GitLab: Oferece uma solução completa de DevOps, com ferramentas nativas para C
 Ambas são essenciais para equipes de desenvolvimento
 
 ### 🎮 Jira / Trello  
-* Via Trello O Trello é uma ferramenta de gerenciamento de projetos baseada na Web, criada para ajudar indivíduos e equipes a organizar e acompanhar tarefas. Os gerentes de projeto podem criar quadros nesse software de gerenciamento de projetos para projetos ou iniciativas.
+* Via Trello: O Trello é uma ferramenta de gerenciamento de projetos baseada na Web, criada para ajudar indivíduos e equipes a organizar e acompanhar tarefas. Os gerentes de projeto podem criar quadros nesse software de gerenciamento de projetos para projetos ou iniciativas.
 
-* Via jira Embora tenha sido criado inicialmente para equipes de desenvolvimento ágil de software para acompanhar o ritmo acelerado do desenvolvimento, a funcionalidade expandida do Jira agora é popular para o gerenciamento de projetos em muitos setores, não apenas para desenvolvedores de software.
+* Via jira: Embora tenha sido criado inicialmente para equipes de desenvolvimento ágil de software para acompanhar o ritmo acelerado do desenvolvimento, a funcionalidade expandida do Jira agora é popular para o gerenciamento de projetos em muitos setores, não apenas para desenvolvedores de software.
