@@ -40,8 +40,11 @@ Os pricipios que reagem ao manifesto ágil é a valorização individual dos par
 Os valores do Manifesto Ágil são:
 
 1- Pessoas e suas interações são prioridades em relação a processos e ferramentas;
+
 2- Softwares funcionando têm mais importância que documentação completa;
+
 3- Colaboração com o cliente tem mais valor do que contratos;
+
 4- É melhor reagir às mudanças do que seguir o planejamento inicial.
 
 
